@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Original"
+        android:id="@+id/mnuoriginal"/>
+    <item android:id="@+id/menugris"
+        android:title="Gris"/>
+    <item android:id="@+id/menuinversogris"
+        android:title="Inverso Gris"/>
+    <item android:title="Invertir Colores"
+        android:id="@+id/menuinvercolor"/>
+    <item android:id="@+id/menurojo"
+        android:title="Canal R"/>
+    <item android:id="@+id/menuverde"
+        android:title="Canal G"/>
+    <item android:id="@+id/menuazul"
+        android:title="Canal B"/>
+    <item android:id="@+id/colorpiel"
+        android:title="Color de piel"/>
+    <item android:id="@+id/detechoja"
+        android:title="Detecter hojas"/>
+    <item android:id="@+id/bordes"
+        android:title="Bordes"/>
+    <item android:id="@+id/menurostro"
+        android:title="Buscar rostro"/>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppCalculator</string>
+    <string name="sumar">Sumar</string>
+    <string name="n2">n2</string>
+    <string name="n1">n1</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="restar">Restar</string>
+    <string name="dividir">Dividir</string>
+</resources>

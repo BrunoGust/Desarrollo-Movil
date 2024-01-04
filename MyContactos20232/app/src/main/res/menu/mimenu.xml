@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnuiragregarcontactolista"
+        android:title="Ir Agregar"/>
+    <item
+        android:id="@+id/mnuirListarContacto"
+        android:title="Ir Listar Contacto"/>
+    <item
+        android:id="@+id/mnuirListarContactoSQlite"
+        android:title="Ir Listar Contacto SQlite"/>
+    <item
+        android:id="@+id/mnuirListarWeb"
+        android:title="Ir Listar Contacto Web"/>
+</menu>
